@@ -1,0 +1,23 @@
+{
+  "name": "ClickitReact",
+  "version": "1.0.0",
+  "description": "React Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pippencoded1/ClickitReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pippencoded1/ClickitReact/issues"
+  },
+  "homepage": "https://github.com/pippencoded1/ClickitReact#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}

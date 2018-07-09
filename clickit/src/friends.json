@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Velma Dinkley",
+      "image": "https://www.standingstills.com/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/c/a/cac504-1-1.jpg",
+      "occupation": "Professional Book Reader",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Scobby Doo",
+      "image": "https://lh3.googleusercontent.com/m7uqFDVdbyIDgTUxpc6A01MugkUoUk34swM6crDoC03I4eRqma-BhaNi7dmuQukb-nLZYiQMgpwXJM6INg",
+      "occupation": "Professional Dog",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Shaggy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41F-nN-phcL._SY355_.jpg",
+      "occupation": "Professional Chiller",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Daphne",
+      "image": "https://vignette.wikia.nocookie.net/scooby-doofanon/images/a/aa/Daphne.gif/revision/latest?cb=20110704165752",
+      "occupation": "Professional Instagram Model",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Fred",
+      "image": "https://i.pinimg.com/originals/61/f1/38/61f138a26ba1134838f07868a3650301.jpg",
+      "occupation": "A Professional Hair Model",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Scrappy Doo",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Gijd%2BdomL.jpg",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      
+    }
+  ]
